@@ -180,5 +180,5 @@ across India.
 
 ------------------------------------------------------------------------
 
-**Author:** Tushar Gupta\
+**Author:** Preksha Prachee Bharadwaj\
 **Tools Used:** Python, Pandas, Matplotlib
